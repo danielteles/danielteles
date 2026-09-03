@@ -19,6 +19,7 @@ Off the clock, I'm a sports addict and a vegan 🌱🏃
 ### 📸 Things I've built
 - **[ATS-friendly LaTeX CV](https://github.com/danielteles/ats-friendly-latex-cv)** — a clean, single-column LaTeX resume template that ATS software actually parses correctly. Comes in English and Brazilian Portuguese.
 - **[CamSpecs](https://camspecs.dteles.dev)** — compare cameras and lenses across sensor formats, with a dynamic equivalence calculator for focal length, aperture, and field of view. Available in English, Portuguese, and Spanish. [Code here](https://github.com/danielteles/camspecs).
+- **[awesome-agent-skills](https://github.com/danielteles/awesome-agent-skills)** — a curated collection of agent skills.
 
 ### 🔀 Also here
 - **[Photo blog](https://photos.dteles.dev/)** — my photography, with EXIF camera data (aperture, shutter speed, ISO) shown for each shot. Forked from [sambecker/exif-photo-blog](https://github.com/sambecker/exif-photo-blog) and self-hosted; [my fork here](https://github.com/danielteles/exif-photo-blog).
