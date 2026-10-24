@@ -13,6 +13,7 @@ Off the clock, I'm a sports addict and a vegan 🌱🏃
 
 ### 🌱 Currently learning
 - 🎓 Postgraduate degree in Applied AI Engineering
+- 💪🏻 Postgraduate degree in Bodybuilding
 - 📷 Photography
 - 🔧 Car mechanics
 
